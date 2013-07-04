@@ -5,8 +5,7 @@
   , "keywords": []
   , "author": "Rakuraku Jyo <jyo.rakuraku@gmail.com>"
   , "dependencies": {
-        "log": ""
-      , "js-yaml": ""
+        "js-yaml": ""
     }
   , "main": "lib/yaml-config"
   , "engines": { "node" : ">=0.4.x" }
